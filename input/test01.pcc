@@ -1,0 +1,7 @@
+// Basic test (empty data/main)
+data {
+	
+}
+main {
+	x = 1 + 2 / 3 - 4
+}
